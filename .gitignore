@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
 pdfs/
+recetas/
+state.json
 debug.log
